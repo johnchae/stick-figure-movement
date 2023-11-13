@@ -1,2 +1,2 @@
 # stick-figure-movement
-Move a stick figure with left and right arrow keys and watch it animate! Made in C++, April 2015
+Move the stick figure with the left and right arrow keys and watch it animate! Made in C++ using SDL2
